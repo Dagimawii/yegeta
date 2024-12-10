@@ -137,3 +137,11 @@ body {
     font-weight: bold;
     border: none;
 }
+a{
+  background-color: red;
+  color: white;
+  padding: 5px;
+  text-decoration: none;
+  font-family: sans-serif;
+  transform: scale(.8);
+}
