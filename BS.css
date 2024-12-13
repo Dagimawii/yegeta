@@ -2,7 +2,6 @@ body {
     height: 100vh;
     margin: 0;
     padding: 0;
-    overflow: hidden;
     display: flex;
     flex-direction: column;
     background: #01121d;
@@ -15,7 +14,7 @@ body {
     top: 0;
     left: 0;
     width: 100%;
-    height: 100%;
+    height: 100vh;
     background-image: url('images/bible.jpg');
     background-size: cover;
     background-position: center center;
