@@ -22,7 +22,7 @@ setTimeout(() => {
           document.querySelector('.main').style.display = 'none';
         },2000);
          setTimeout(()=>{
-          window.location.href="BS.html";},3000);
+          window.location.href="Home_BQ.html";},3000);
 
     }
     else if(username =="" || password ==""){
