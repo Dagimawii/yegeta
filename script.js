@@ -10,7 +10,7 @@ setTimeout(() => {
     const error = document.getElementById("error");
 
 
-    if((username =="babi" && password == "123") ||(username =="keyu" && password=="2525") ||(username =="nani" && password == "@ray") || (username =="mami" && password == "123") ){
+    if((username =="babi" && password == "123") ||(username =="keyu" && password=="2525") ||(username =="nani" && password == "@ray") || (username =="mami" && password == "123") || username =="dadi" && password == "123"  ){
 
 
         error.textContent = "Login Successfully";
